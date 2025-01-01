@@ -27,8 +27,10 @@ https://github.com/ismailTareq/Creating-Bootloader-on-STM32f407-Discovery-Board
 
 ---
 
+---
 ## Video Link Explaining how things go:
 https://drive.google.com/file/d/1M1yu0nyOM2ebn3pYRfx6vemX8BhtkEWR/view?usp=drive_link
+---
 
 
 
