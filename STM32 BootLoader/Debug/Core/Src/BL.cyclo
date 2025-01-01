@@ -1,0 +1,12 @@
+../Core/Src/BL.c:28:11:BL_FeatchHostCommand	8
+../Core/Src/BL.c:64:6:BL_SendMessage	1
+../Core/Src/BL.c:74:13:BL_Get_Version	2
+../Core/Src/BL.c:92:13:BL_Get_Chip_Idendification_nNumber	2
+../Core/Src/BL.c:111:13:Bootloader_Erase_Flash	2
+../Core/Src/BL.c:130:13:Bootloader_Memory_Write	2
+../Core/Src/BL.c:163:9:BL_Address_Varification	3
+../Core/Src/BL.c:170:17:BL_CRC_verfiy	3
+../Core/Src/BL.c:192:13:BL_Send_ACK	1
+../Core/Src/BL.c:200:13:BL_Send_NACK	1
+../Core/Src/BL.c:206:16:Perform_Flash_Erase	6
+../Core/Src/BL.c:255:16:FlashMemory_Paylaod_Write	3
