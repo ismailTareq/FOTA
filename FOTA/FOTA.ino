@@ -11,8 +11,8 @@
 #include <PubSubClient.h>
 #include <Arduino.h>
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID "3aiz eh ya3ni"  // Your WiFi SSID
-#define WIFI_PASSWORD "a7a 5555"   // Your WiFi Password
+#define WIFI_SSID ""  // Your WiFi SSID
+#define WIFI_PASSWORD ""   // Your WiFi Password
 
 /* 2. Define the API Key */
 #define API_KEY "AIzaSyA4n-3QPSPuNi6CWdg85qY5RKMx6L6kDdU"  // Your Firebase API Key
